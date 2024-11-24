@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/ecommerce.dir/src/app.cpp.o -o ecommerce  /usr/local/lib/oatpp-1.4.0/liboatpp.a -latomic 

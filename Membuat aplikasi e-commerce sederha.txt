@@ -1,0 +1,16 @@
+Membuat aplikasi e-commerce sederhana
+
+Menggunakan Bahasa C++ dengan framework https://oatpp.io, ini adalah sebuah web framework open source.
+Aplikasi ini hanya menyediakan API, ditampilkan dalam bentuk open API seperti Swagger.
+Database yang digunakan adalah PostgreSQL, database ini digunakan untuk untuk menyimpan data product dan keranjang.
+Aplikasi ini akan berjalan di atas Linux UBUNTU, tapi berjalan di atas WSL Windows.
+
+- input
+1. product
+2. keranjang
+
+- data
+1. ada data pembelian tersimpan di database, datanya adalah product, tanggal pembelian, quantity, Harga, total produk dan harga 
+
+- output
+1. laporan penjualan barang

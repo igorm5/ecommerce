@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic "CMakeFiles/simple-e-commerce.dir/src/app.cpp.o" -o simple-e-commerce 
