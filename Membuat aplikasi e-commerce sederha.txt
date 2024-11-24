@@ -6,8 +6,26 @@ Database yang digunakan adalah PostgreSQL, database ini digunakan untuk untuk me
 Aplikasi ini akan berjalan di atas Linux UBUNTU, tapi berjalan di atas WSL Windows.
 
 - input
-1. product
+1. product 
+    - code
+    - name 
+    - quantity
+    - size
+    - price
 2. keranjang
+    - product code
+    - product price
+    - product quantity
+    - userid (buyer) 
+    - transaction date
+    - transaction id
+    - total price
+3. user
+    - userid
+    - username
+    - user password
+
+user melakukan pembelian beberapa product dengan cara memasukkan item ke keranjang
 
 - data
 1. ada data pembelian tersimpan di database, datanya adalah product, tanggal pembelian, quantity, Harga, total produk dan harga 
